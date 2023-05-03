@@ -27,10 +27,8 @@ body {
   height: 32rem;
 }
 
-.carousel-pictures {
-  object-fit: cover;
+.carousel-picture-1 {
   width: 100%;
-  height: 100%;
 }
 
 
@@ -50,6 +48,8 @@ body {
 
 .marketing-pictures{
   object-fit: cover;
+  width: 212px;
+  height: 138px;
 
 }
 /* rtl:end:ignore */
