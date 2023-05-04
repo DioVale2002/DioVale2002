@@ -27,10 +27,6 @@ body {
   height: 32rem;
 }
 
-.carousel-picture-1 {
-  width: 100%;
-}
-
 .carousel-pictures {
   object-fit:fill;
   width: 100%;
