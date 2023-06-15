@@ -48,6 +48,21 @@ body {
   margin-left: .75rem;
 }
 
+.row2 {
+  position: relative;
+}
+
+.scott-aircon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 200px;
+  position: relative;
+  z-index: 1;
+}
+ 
+
 .marketing-pictures{
   object-fit: cover;
   width: 212px;
@@ -70,6 +85,8 @@ body {
 
 .featurette-divider {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  position: relative;
+  z-index: 1;
 }
 
 /* Thin out the marketing headings */
