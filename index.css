@@ -48,8 +48,13 @@ body {
   margin-left: .75rem;
 }
 
-.row2 {
-  position: relative;
+.secondrow {
+  margin-left: 250px;
+
+}
+
+.rownumber2 {
+  display: block;
 }
 
 .scott-aircon {
@@ -78,6 +83,9 @@ body {
   margin-top: 85px;
 }
 /* rtl:end:ignore */
+.button-5 {
+  margin-top:0px;
+}
 
 
 /* Featurettes
